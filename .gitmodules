@@ -1,0 +1,3 @@
+[submodule "designdeck"]
+	path = designdeck
+	url = https://github.com/teivah/designdeck.git
